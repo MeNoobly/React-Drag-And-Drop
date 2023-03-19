@@ -1,5 +1,5 @@
 ﻿import React, { useState } from 'react';
-import styles from "../css/card.module.css";
+import styles from "../css/cards.module.css";
 
 const Cards = () => {
     const [cardList, setCardList] = useState([
